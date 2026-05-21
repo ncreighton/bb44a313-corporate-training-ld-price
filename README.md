@@ -1,0 +1,2 @@
+# bb44a313-corporate-training-ld-price
+Your L&amp;D budget is bleeding money on overpriced training vendors. The Corporate Training &amp; L&amp;D Price Comparison and Deal Finder Chrome Extension hunts down hidden discounts and competitive pricing automatically—so you stop overpaying for corporate courses.  Stop manually comparing training platforms and vendor quotes across 20+ tabs. This extension
